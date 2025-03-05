@@ -1,0 +1,8 @@
+License for WI-FI Profiles And Key Content Extractor
+-----------------------------------------------------------
+1. This script is the property of Chitraaksh. All rights reserved.
+2. This script is licensed for personal, non-commercial use only. Any use for commercial purposes is strictly prohibited.
+3. Unauthorized sharing, modification, or distribution of this script, in whole or in part, without the explicit permission of the owner, is prohibited.
+4. Proper credit must be given to the owner (Chitraaksh) in all instances where this script is used, modified, or shared.
+5. The owner is not responsible for any misuse, illegal activities, or damages caused by the use of this script.
+6. By using this script, you agree to the terms and conditions of this license.
