@@ -1,4 +1,4 @@
-# WI-FI Profiles And Key Content Extractor
+# Wi-Fi Profiles And Key Content Extractor
 
 This batch script, `getwifi.bat`, allows you to list saved Wi-Fi profiles and extract their associated passwords (key content) on a Windows 11 system. It is designed for educational purposes and can be used to learn how stored Wi-Fi credentials are managed on Windows.
 
